@@ -1,0 +1,107 @@
+{
+  "kode": "xoxo",
+  "durasi": "120",
+  "matkul": "Bahasa Pemrograman Python",
+  "soal": [
+    {
+      "no": 1,
+      "soal": "Sebuah instruksi atau kalimat perintah dalam bahasa pemrograman yang akan dieksekusi oleh komputer disebut",
+      "opsi_a": "Statement",
+      "opsi_b": "Syntaks-Syntaks",
+      "opsi_c": "Program",
+      "opsi_d": "Scratch",
+      "opsi_e": "String",
+      "jawaban": "A"
+    },
+    {
+      "no": 2,
+      "soal": "Seperangkat aturan dalam bahasa pemrograman yang mendefinisikan kombinasi simbol yang dianggap sebagai dokumen terstruktur dengan benar disebut",
+      "opsi_a": "Statement",
+      "opsi_b": "Syntaks",
+      "opsi_c": "Program",
+      "opsi_d": "Scratch",
+      "opsi_e": "String",
+      "jawaban": "B"
+    },
+    {
+      "no": 3,
+      "soal": "Jika kita ingin menulis lebih dari satu statement dalam satu baris pada bahasa Python, maka kita harus memisahkan antar statementnya dengan menggunakan tanda",
+      "opsi_a": "Pagar",
+      "opsi_b": "Spasi",
+      "opsi_c": "Koma",
+      "opsi_d": "Titik-Koma",
+      "opsi_e": "Petik",
+      "jawaban": "D"
+    },
+    {
+      "no": 4,
+      "soal": "Deretan karakter pada bahasa Python yang dapat berupa huruf, digit angka, atau simbol, yang penulisannya diawali dan diakhiri dengan tanda petik disebut",
+      "opsi_a": "Statement",
+      "opsi_b": "Syntaks",
+      "opsi_c": "Program",
+      "opsi_d": "Scratch",
+      "opsi_e": "String",
+      "jawaban": "E"
+    },
+    {
+      "no": 5,
+      "soal": "Penulisan String dalam pemrograman biasanya diawali dan diakhiri dengan tanda",
+      "opsi_a": "Pagar",
+      "opsi_b": "Spasi",
+      "opsi_c": "Koma",
+      "opsi_d": "Titik-Koma",
+      "opsi_e": "Petik",
+      "jawaban": "E"
+    },
+    {
+      "no": 6,
+      "soal": "Penulisan syntaks pada python bersifat Case Sensitive. Menurut rekomendasi style guide Google, penulisan case yang disarankan adalah seperti yang disebutkan di bawah ini. Pilih istilah yang salah",
+      "opsi_a": "Snake Case",
+      "opsi_b": "Camel Case",
+      "opsi_c": "All Caps Case",
+      "opsi_d": "Kebab Case",
+      "opsi_e": "Kernel Case",
+      "jawaban": "E"
+    },
+    {
+      "no": 7,
+      "soal": "Penulisan case pada python yang menggunakan tanda garis bawah atau underscore sebagai pemisah antar kata adalah",
+      "opsi_a": "Snake Case",
+      "opsi_b": "Camel Case",
+      "opsi_c": "All Caps Case",
+      "opsi_d": "Kebab Case",
+      "opsi_e": "Kernel Case",
+      "jawaban": "A"
+    },
+    {
+      "no": 8,
+      "soal": "Penulisan case pada python yang penulisan antar katanya digabung, namun huruf depan tiap kata diberi huruf kapital disebut",
+      "opsi_a": "Snake Case",
+      "opsi_b": "Camel Case",
+      "opsi_c": "All Caps Case",
+      "opsi_d": "Kebab Case",
+      "opsi_e": "Kernel Case",
+      "jawaban": "B"
+    },
+    {
+      "no": 9,
+      "soal": "Penulisan case pada python yang penulisan antar katanya digabung, namun semua hurufnya diketik dalam huruf kapital disebut",
+      "opsi_a": "Snake Case",
+      "opsi_b": "Camel Case",
+      "opsi_c": "All Caps Case",
+      "opsi_d": "Kebab Case",
+      "opsi_e": "Kernel Case",
+      "jawaban": "C"
+    },
+    {
+      "no": 10,
+      "soal": "Penulisan case pada python yang menggunakan tanda strip atau dash sebagai pemisah antar kata adalah",
+      "opsi_a": "Snake Case",
+      "opsi_b": "Camel Case",
+      "opsi_c": "All Caps Case",
+      "opsi_d": "Kebab Case",
+      "opsi_e": "Kernel Case",
+      "jawaban": "D"
+    }
+   ]
+}

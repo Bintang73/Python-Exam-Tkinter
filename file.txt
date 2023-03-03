@@ -1,0 +1,1 @@
+mongo_url=mongodb+srv://projectakhir:projectakhir@projectakhir.y7whtnu.mongodb.net/?retryWrites=true&w=majority

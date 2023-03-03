@@ -1,0 +1,11 @@
+﻿no,soal,opsi_a,opsi_b,opsi_c,opsi_d,opsi_e,jawaban
+1,Sebuah instruksi atau kalimat perintah dalam bahasa pemrograman yang akan dieksekusi oleh komputer disebut,Statement,Syntaks-Syntaks,Program,Scratch,String,A
+2,Seperangkat aturan dalam bahasa pemrograman yang mendefinisikan kombinasi simbol yang dianggap sebagai dokumen terstruktur dengan benar disebut,Statement,Syntaks,Program,Scratch,String,B
+3,"Jika kita ingin menulis lebih dari satu statement dalam satu baris pada bahasa Python, maka kita harus memisahkan antar statementnya dengan menggunakan tanda",Pagar,Spasi,Koma,Titik-Koma,Petik,D
+4,"Deretan karakter pada bahasa Python yang dapat berupa huruf, digit angka, atau simbol, yang penulisannya diawali dan diakhiri dengan tanda petik disebut",Statement,Syntaks,Program,Scratch,String,E
+5,Penulisan String dalam pemrograman biasanya diawali dan diakhiri dengan tanda,Pagar,Spasi,Koma,Titik-Koma,Petik,E
+6,"Penulisan syntaks pada python bersifat Case Sensitive. Menurut rekomendasi style guide Google, penulisan case yang disarankan adalah seperti yang disebutkan di bawah ini. Pilih istilah yang salah",Snake Case,Camel Case,All Caps Case,Kebab Case,Kernel Case,E
+7,Penulisan case pada python yang menggunakan tanda garis bawah atau underscore sebagai pemisah antar kata adalah,Snake Case,Camel Case,All Caps Case,Kebab Case,Kernel Case,A
+8,"Penulisan case pada python yang penulisan antar katanya digabung, namun huruf depan tiap kata diberi huruf kapital disebut",Snake Case,Camel Case,All Caps Case,Kebab Case,Kernel Case,B
+9,"Penulisan case pada python yang penulisan antar katanya digabung, namun semua hurufnya diketik dalam huruf kapital disebut",Snake Case,Camel Case,All Caps Case,Kebab Case,Kernel Case,C
+10,Penulisan case pada python yang menggunakan tanda strip atau dash sebagai pemisah antar kata adalah,Snake Case,Camel Case,All Caps Case,Kebab Case,Kernel Case,D
